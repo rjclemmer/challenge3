@@ -12,7 +12,7 @@ https://rjclemmer.github.io/challenge3/
 
 ## Screenshot
 
-<img src="./assets/password_screenshot.png" alt="Photo of Challenge3" title="Photo of Challenge3">
+<img src=".assets/password_screenshot.png" alt="Photo of Challenge3" title="Photo of Challenge3">
 
 
 
